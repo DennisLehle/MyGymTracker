@@ -9,7 +9,7 @@ import com.google.appengine.api.utils.SystemProperty;
 /**
  * Klasse für den Aufbau zur Datenbank mittels JDBC.
  * 
- * @author Dennis Lehle
+ * @author Dennis Lehle, Patrick Lehle
  */
 public class DBConnection {
 
