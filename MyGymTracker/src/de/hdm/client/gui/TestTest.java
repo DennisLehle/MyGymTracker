@@ -1,4 +1,4 @@
-package de.hdm.client;
+package de.hdm.client.gui;
 
 public class TestTest {
 

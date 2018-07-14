@@ -1,5 +1,7 @@
-package de.hdm.client;
+package de.hdm.client.gui;
 
-public class GraphicalUserInterface {
+import com.google.gwt.user.client.ui.VerticalPanel;
+
+public class GraphicalUserInterface extends VerticalPanel {
 
 }
