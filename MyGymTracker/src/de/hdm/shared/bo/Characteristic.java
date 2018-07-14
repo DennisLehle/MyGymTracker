@@ -9,6 +9,34 @@ package de.hdm.shared.bo;
  */
 public class Characteristic implements Identifiable {
 
+	//Seriaisierungs Id
 	private static final long serialVersionUID = 1L;
+	
+	/**
+	 * Initialisierung der Objekt Eigenschaften
+	 */
+	private String value;
+
+	
+	/**
+	 * Auslesen des Wertes
+	 * 
+	 * @return value Wert der Characteristic
+	 */
+	public String getValue() {
+		return value;
+	}
+
+	/**
+	 *Setzen der Characteristic
+	 *
+	 * @param value Wert der Characteristic
+	 */
+	public void setValue(String value) {
+		this.value = value;
+	}
+	
+	
+	
 
 }

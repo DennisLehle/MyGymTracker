@@ -9,6 +9,9 @@ package de.hdm.shared.bo;
  */
 public class Notebook implements Identifiable{
 
+	//Seriaisierungs Id
 	private static final long serialVersionUID = 1L;
+	
+	
 
 }
